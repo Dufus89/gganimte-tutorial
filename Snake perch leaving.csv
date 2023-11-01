@@ -1,0 +1,9 @@
+﻿Species,Height,Target,Left the perch,Stayed on the perch
+Ahaetulla,High,Present,4,4
+Ahaetulla,High,Absent,1,7
+Ahaetulla,Low,Present,3,5
+Ahaetulla,Low,Absent,2,6
+Dendrelaphis,High,Present,6,3
+Dendrelaphis,High,Absent,2,7
+Dendrelaphis,Low,Present,8,1
+Dendrelaphis,Low,Absent,6,2
